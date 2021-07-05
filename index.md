@@ -13,12 +13,12 @@ Thực tập bảo mật hệ thống
 </div>
 
 
-### Mục tiêu
+## Mục tiêu
 Tích lũy thêm nhiều kinh nghiệm, kiến thức; rèn luyện kĩ năng xử lý công việc hiệu quả, nhanh chóng, có cống hiến cho công ty.
 
 <br />
 
-### Trình độ học vấn
+## Trình độ học vấn
 
 `2018 - Hiện tại`
 
@@ -34,7 +34,7 @@ Chương trình đào tạo: Chuẩn
 
 _Chuyên Hóa_
 
-### Kinh nghiệm làm việc
+## Kinh nghiệm làm việc
 
 `6/2020 - 8/2020`
 
@@ -45,7 +45,7 @@ _Thực tập sinh bảo mật hệ thống_
 - Tìm hiểu về các vấn đề cơ bản của bảo mật, an ninh hệ thống
 - Triển khai và demo phần mềm IDS (Snort)
 
-### Dự án
+## Dự án
 
 `1/2021`
 
@@ -65,7 +65,7 @@ Nhận diện khuôn mặt dùng OpenCV, ...
 
 Game Cờ vua giữa người với người hoặc người với máy
 
-### Kỹ năng
+## Kỹ năng
 
 **Kỹ năng chuyên môn**
 
@@ -79,11 +79,11 @@ Game Cờ vua giữa người với người hoặc người với máy
 - Có khả năng thuyết trình
 - Có trách nhiệm, nhiệt huyết với công việc
 
-### Chứng chỉ
+## Chứng chỉ
 - MOS PowerPoint 2013
 - TOEIC: 985/990
 
-### Sở thích
+## Sở thích
 - Tìm hiểu những vấn đề mới
 - Đọc truyện
 - Chơi game, đàn piano
