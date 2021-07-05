@@ -9,14 +9,13 @@ Thực tập bảo mật hệ thống
 <div id="webaddress">
 <a>0904714266</a>
 | <a href="mailto:dokhoinguyen.nguyen@gmail.com">dokhoinguyen.nguyen@gmail.com</a>
-  | <a href="https://github.com/jake1512"><i class="fab fa-github"></i>jake1512 (github.com)</a>
+  | <a href="https://github.com/jake1512"><i class="fab fa-github"></i>https://github.com/jake1512</a>
 </div>
 
 
 ## Mục tiêu
 Tích lũy thêm nhiều kinh nghiệm, kiến thức; rèn luyện kĩ năng xử lý công việc hiệu quả, nhanh chóng, có cống hiến cho công ty.
 
-<br />
 
 ## Trình độ học vấn
 
@@ -44,26 +43,27 @@ _Thực tập sinh bảo mật hệ thống_
 
 - Tìm hiểu về các vấn đề cơ bản của bảo mật, an ninh hệ thống
 - Triển khai và demo phần mềm IDS (Snort)
+- Viết và thuyết trình báo cáo
 
 ## Dự án
 
 `1/2021`
 
-**Flappy Bird Remake Using Qt Library**
+**Flappy Bird Remake Using Qt Library (dự án nhóm)**
 
-Bản remake game Flappy Bird dùng thư viện Qt
-
-`11/2020`
-
-**Face Recognition**
-
-Nhận diện khuôn mặt dùng OpenCV, ...
+Xây dựng lại game Flappy Bird sử dụng thư việt Qt C++.
 
 `11/2020`
 
-**Chess PvP - PvE**
+**Face Recognition (dự án nhóm)**
 
-Game Cờ vua giữa người với người hoặc người với máy
+Thiết kế và phát triển phần mềm nhận diện khuôn mặt để phục vụ cho hệ thống bảo mật của một tổ chức. Nhóm cần thiết kế và xây dựng cơ sở dữ liệu, API, thuật toán nhận diện, ...
+
+`11/2020`
+
+**Chess PvP - PvE (dự án nhóm)**
+
+Xây dựng ứng dụng chơi cờ vua giữa người với người hoặc người với máy. Ứng dụng chạy trên PC với giao diện thân thiện người dùng và dễ sử dụng.
 
 ## Kỹ năng
 
