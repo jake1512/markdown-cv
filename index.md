@@ -6,15 +6,14 @@ title: Nguyễn Đỗ Khôi Nguyên's CV
 Thực tập bảo mật hệ thống
 
 
-<div id="info">
+<div id="webaddress">
 <a>0904714266</a>
 | <a href="mailto:dokhoinguyen.nguyen@gmail.com">dokhoinguyen.nguyen@gmail.com</a>
-| <a href="https://github.com/jake1512">jake1512 (github.com)</a>
+  | <a href="https://github.com/jake1512"><i class="fab fa-github"></i>jake1512 (github.com)</a>
 </div>
 
 
 ### Mục tiêu
----------------------------
 Tích lũy thêm nhiều kinh nghiệm, kiến thức; rèn luyện kĩ năng xử lý công việc hiệu quả, nhanh chóng, có cống hiến cho công ty.
 
 <br />
