@@ -2,7 +2,7 @@
 layout: cv
 title: Nguyễn Đỗ Khôi Nguyên's CV
 ---
-
+<br />
 
 # Nguyễn Đỗ Khôi Nguyên
 Thực tập bảo mật hệ thống
