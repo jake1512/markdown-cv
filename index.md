@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nguyễn Đỗ Khôi Nguyên's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nguyễn Đỗ Khôi Nguyên
+Thực tập bảo mật hệ thống
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+
+<div id="info">
+<a>0904714266</a>
+| <a href="mailto:dokhoinguyen.nguyen@gmail.com">dokhoinguyen.nguyen@gmail.com</a>
+| <a href="https://github.com/jake1512">jake1512 (github.com)</a>
 </div>
 
 
-## Currently
+### Mục tiêu
+---------------------------
+Tích lũy thêm nhiều kinh nghiệm, kiến thức; rèn luyện kĩ năng xử lý công việc hiệu quả, nhanh chóng, có cống hiến cho công ty.
 
-Standing on the shoulders of giants
+<br />
 
-### Specialized in
+### Trình độ học vấn
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2018 - Hiện tại`
 
+**Trường Đại Học Khoa Học Tự Nhiên**
 
-### Research interests
+_Máy tính và Khoa học thông tin_
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Chương trình đào tạo: Chuẩn
 
+`2015 - 2018`
 
-## Education
+**Trường THPT Chuyên Nguyễn Huệ**
 
-`1654-1660`
-__The King's School, Grantham.__
+_Chuyên Hóa_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Kinh nghiệm làm việc
 
-- Sizar
+`6/2020 - 8/2020`
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPay**
 
-- Fellow
+_Thực tập sinh bảo mật hệ thống_
 
+- Tìm hiểu về các vấn đề cơ bản của bảo mật, an ninh hệ thống
+- Triển khai và demo phần mềm IDS (Snort)
 
+### Dự án
 
-## Awards
+`1/2021`
 
-`2012`
-President, *Royal Society*, London, UK
+**Flappy Bird Remake Using Qt Library**
 
-Associate, *French Academy of Science*, Paris, France
+Bản remake game Flappy Bird dùng thư viện Qt
 
+`11/2020`
 
+**Face Recognition**
 
-## Publications
+Nhận diện khuôn mặt dùng OpenCV, ...
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`11/2020`
 
-### Journals
+**Chess PvP - PvE**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Game Cờ vua giữa người với người hoặc người với máy
 
-`1669`
-Lectiones opticæ.
+### Kỹ năng
 
-etc. etc. etc.
+**Kỹ năng chuyên môn**
 
-### Patents
+- Java, Python, C++
+- Git
+- Unix shell
+- Microsoft Office
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Kỹ năng mềm**
+- Làm việc nhóm hiệu quả
+- Có khả năng thuyết trình
+- Có trách nhiệm, nhiệt huyết với công việc
 
+### Chứng chỉ
+- MOS PowerPoint 2013
+- TOEIC: 985/990
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### Sở thích
+- Tìm hiểu những vấn đề mới
+- Đọc truyện
+- Chơi game, đàn piano
