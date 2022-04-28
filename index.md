@@ -36,7 +36,7 @@ Chương trình đào tạo: Chuẩn
 _Chuyên Hóa_
 
 ## Kinh nghiệm làm việc
-`2/2022 - Now`
+`2/2022 - Hiện tại`
 
 **Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPay**
 
