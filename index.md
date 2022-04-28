@@ -41,8 +41,10 @@ _Chuyên Hóa_
 **Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPay**
 
 _Thực tập sinh bảo mật hệ thống_
-- Tìm hiểu, triển khai hệ thống Splunk; Thực hiện log parsing và tạo Dashboard theo dõi
+- Tìm hiểu về Windows Server
+- Tìm hiểu, triển khai hệ thống Splunk; Thực hiện log parsing và tạo Dashboard theo dõi trên Splunk
 - Tìm hiểu về IPS Cisco Firepower, McAfee ePO, WAF Checkpoint
+- Viết và thuyết trình báo cáo
 
 `6/2020 - 8/2020`
 
