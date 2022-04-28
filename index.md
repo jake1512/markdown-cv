@@ -36,6 +36,13 @@ Chương trình đào tạo: Chuẩn
 _Chuyên Hóa_
 
 ## Kinh nghiệm làm việc
+`2/2022 - Now`
+
+**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPay**
+
+_Thực tập sinh bảo mật hệ thống_
+- Tìm hiểu, triển khai hệ thống Splunk; Thực hiện log parsing và tạo Dashboard theo dõi
+- Tìm hiểu về IPS Cisco Firepower, McAfee ePO, WAF Checkpoint
 
 `6/2020 - 8/2020`
 
