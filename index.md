@@ -64,6 +64,10 @@ _Thực tập sinh bảo mật hệ thống_
 
 Website quản lý sự kiện sử dụng PHP
 
+**Ứng dụng nén âm thanh**
+
+Ứng dụng nén file âm thanh WAV sử dụng MATLAB
+
 `1/2021`
 
 **Flappy Bird Remake Using Qt Library (dự án nhóm)**
