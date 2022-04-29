@@ -58,6 +58,12 @@ _Thực tập sinh bảo mật hệ thống_
 
 ## Dự án
 
+`1/2022`
+
+**Web Quản lý sự kiện**
+
+Website quản lý sự kiện sử dụng PHP
+
 `1/2021`
 
 **Flappy Bird Remake Using Qt Library (dự án nhóm)**
