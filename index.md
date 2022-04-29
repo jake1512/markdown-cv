@@ -90,7 +90,7 @@ Xây dựng ứng dụng chơi cờ vua giữa người với người hoặc ng
 
 **Kỹ năng chuyên môn**
 
-- Java, Python, C++
+- Python, C++, Java
 - Git
 - Unix shell
 - Microsoft Office
