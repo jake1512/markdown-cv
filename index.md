@@ -53,7 +53,7 @@ _Thực tập sinh bảo mật hệ thống_
 _Thực tập sinh bảo mật hệ thống_
 
 - Tìm hiểu về các vấn đề cơ bản của bảo mật, an ninh hệ thống
-- Triển khai và demo phần mềm IDS (Snort)
+- Triển khai và demo phần mềm IPS (Snort)
 - Viết và thuyết trình báo cáo
 
 ## Dự án
