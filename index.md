@@ -3,7 +3,7 @@ layout: cv
 title: Nguyễn Đỗ Khôi Nguyên's CV
 ---
 <br />
-<img align="right" width="350" src="cv_pic.jpg">
+<img align="right" width="220" src="cv_pic.jpg">
 
 # Nguyễn Đỗ Khôi Nguyên
 
