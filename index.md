@@ -3,9 +3,10 @@ layout: cv
 title: Nguyễn Đỗ Khôi Nguyên's CV
 ---
 <br />
-<img align="right" width="250" src="cv_pic.jpg">
+<img align="right" width="400" src="cv_pic.jpg">
 
 # Nguyễn Đỗ Khôi Nguyên
+
 SOC Analyst /  Security Engineer
 
 
