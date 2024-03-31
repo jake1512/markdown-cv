@@ -3,10 +3,10 @@ layout: cv
 title: Nguyễn Đỗ Khôi Nguyên's CV
 ---
 <br />
-<img align="right" width="200" src="cv_pic.jpg">
+<img align="right" width="250" src="cv_pic.jpg">
 
 # Nguyễn Đỗ Khôi Nguyên
-Thực tập bảo mật hệ thống
+SOC Analyst /  Security Engineer
 
 
 <div id="webaddress">
@@ -19,10 +19,35 @@ Thực tập bảo mật hệ thống
 ## Mục tiêu
 Tích lũy thêm nhiều kinh nghiệm, kiến thức; rèn luyện kĩ năng xử lý công việc hiệu quả, nhanh chóng, có cống hiến cho công ty.
 
+## Kinh nghiệm làm việc
+`8/2023 - Hiện tại`
+**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPAY**
+
+_Nhân viên giám sát hệ thống_
+
+`2/2022 - 5/2023`
+
+**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPAY**
+
+_Thực tập sinh bảo mật hệ thống_
+- Tìm hiểu về Windows Server
+- Tìm hiểu, triển khai hệ thống Splunk; Thực hiện log parsing và tạo Dashboard theo dõi trên Splunk
+- Tìm hiểu về IPS Cisco Firepower, McAfee ePO, WAF Checkpoint
+- Viết và thuyết trình báo cáo
+
+`6/2020 - 8/2020`
+
+**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPAY**
+
+_Thực tập sinh bảo mật hệ thống_
+
+- Tìm hiểu về các vấn đề cơ bản của bảo mật, an ninh hệ thống
+- Triển khai và demo phần mềm IPS (Snort)
+- Viết và thuyết trình báo cáo
 
 ## Trình độ học vấn
 
-`2018 - Hiện tại`
+`2018 - 2022`
 
 **Trường Đại Học Khoa Học Tự Nhiên**
 
@@ -35,27 +60,6 @@ Chương trình đào tạo: Chuẩn
 **Trường THPT Chuyên Nguyễn Huệ**
 
 _Chuyên Hóa_
-
-## Kinh nghiệm làm việc
-`2/2022 - Hiện tại`
-
-**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPay**
-
-_Thực tập sinh bảo mật hệ thống_
-- Tìm hiểu về Windows Server
-- Tìm hiểu, triển khai hệ thống Splunk; Thực hiện log parsing và tạo Dashboard theo dõi trên Splunk
-- Tìm hiểu về IPS Cisco Firepower, McAfee ePO, WAF Checkpoint
-- Viết và thuyết trình báo cáo
-
-`6/2020 - 8/2020`
-
-**Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPay**
-
-_Thực tập sinh bảo mật hệ thống_
-
-- Tìm hiểu về các vấn đề cơ bản của bảo mật, an ninh hệ thống
-- Triển khai và demo phần mềm IPS (Snort)
-- Viết và thuyết trình báo cáo
 
 ## Dự án
 
