@@ -3,6 +3,7 @@ layout: cv
 title: Nguyễn Đỗ Khôi Nguyên's CV
 ---
 <br />
+<img align="right" width="200" src="cv_pic.jpg">
 
 # Nguyễn Đỗ Khôi Nguyên
 Thực tập bảo mật hệ thống
