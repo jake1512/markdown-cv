@@ -21,6 +21,7 @@ Tích lũy thêm nhiều kinh nghiệm, kiến thức; rèn luyện kĩ năng x�
 
 ## Kinh nghiệm làm việc
 `8/2023 - Hiện tại`
+
 **Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam - VNPAY**
 
 _Nhân viên giám sát hệ thống_
